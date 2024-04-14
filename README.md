@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Faseni</h1>
 <h3 align="center">A passionate Data Scientist and Software Engineer. In my free time, I love to learn new things and share my knowledge.</h3>
 
